@@ -1,0 +1,1 @@
+In this folder you will get all the components mde up of tailwindCSS , which you can use in your projects.
